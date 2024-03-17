@@ -1,3 +1,5 @@
+8+ years of experience in web development. Always looking for new challenges and experiences. Specializing in backend development, but open to exploring the ever-evolving world of web technology. Let's create something amazing!
+
 #### A comprehensive list of the tools and technologies that I have utilized throughout my career.
 
 ##### Programming Languages: <br/>
