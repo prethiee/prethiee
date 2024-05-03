@@ -2,73 +2,141 @@
 
 #### A comprehensive list of the tools and technologies that I have utilized throughout my career.
 
-##### Programming Languages: <br/>
-C, C#, C++, Core-JAVA, JavaScript, Logo, PHP, SQL
+##### Application Lifecycle Management (ALM):
+- Atlassian (Confluence, JIRA)
+- Azure DevOps Server (TFVC, TFS)
 
-##### Web Development: <br/>
-AJAX, JSON, jQuery, Media Query, React.js, SASS, Search Engine Marketing (SEM), Search Engine Optimization (SEO), Twig (Template Engine), Usability Testing, WCF (Windows Communication Foundation), XHTML, XML, HTML, HTML5, CSS, CSS3, Twitter Bootstrap
+##### Cloud Computing:
+- Docker
+- IBM UrbanCode Deploy
+- Jenkins
+- Netlify
+- Pantheon
+- Platform.sh
 
-##### Markup Languages: <br/>
-Markdown, XHTML, XML
+##### Command Line Interface (CLI):
+- Drupal Console
+- Drush
+- Git
 
-##### Stylesheet Languages: <br/>
-CSS, SASS
+##### Content Management Systems (CMS):
+- Drupal 7.x
+- Drupal 8.x
+- Drupal 9.x
 
-##### Database Management Systems (DB): <br/>
-MySQL
+##### Continuous Integration/Continuous Deployment (CI/CD):
+- GitLab CI/CD
 
-##### Operating Systems: <br/>
-Linux Distro (Ubuntu, Fedora), Windows (NT, 2000, XP, 7, 10)
+##### Database Management Systems (DB):
+- MySQL
 
-##### Development Stacks (DEV-STACK): <br/>
-LAMP, Lando, WAMP, XAMPP
+##### Development Stacks (DEV-STACK):
+- LAMP
+- Lando
+- WAMP
+- XAMPP
 
-##### Hosting Platforms: <br/>
-Jenkins, Platform.sh
+##### Editors:
+- Atom
+- Brackets
+- Komodo Edit
+- Notepad++
+- Visual Studio Code
 
-##### Integrated Development Environments (IDE): <br/>
-Eclipse, Microsoft Visual Studio, NetBeans
+##### Hosting Platforms:
+- Jenkins
+- Platform.sh
 
-##### Editors: <br/>
-Atom, Brackets, Komodo Edit, Notepad++, Visual Studio Code
+##### Integrated Development Environments (IDE):
+- Eclipse
+- Microsoft Visual Studio
+- NetBeans
 
-##### Version Control: <br/>
-CVS, Git, TFVC
+##### Markup Languages:
+- Markdown
+- XHTML
+- XML
 
-##### Cloud Computing: <br/>
-Docker, IBM UrbanCode Deploy, Jenkins, Netlify, Pantheon, Platform.sh
+##### Operating Systems:
+- Linux Distro (Ubuntu, Fedora)
+- Windows (NT, 2000, XP, 7, 10)
 
-##### Application Lifecycle Management (ALM): <br/>
-Atlassian (Confluence, JIRA), Azure DevOps Server (TFVC, TFS)
+##### Other:
+- Bash
+- Composer
+- PhpMyAdmin
 
-##### Command Line Interface (CLI): <br/>
-Drupal Console, Drush, Git
+##### Programming Concepts:
+- Design Patterns
+- Object-Oriented Programming (OOP)
+- SOLID
 
-##### Software Development Life Cycle (SDLC): <br/>
-Agile (Scrum), Iterative, Waterfall
+##### Programming Languages:
+- C
+- C#
+- C++
+- Core-JAVA
+- JavaScript
+- Logo
+- PHP
+- SQL
 
-##### Software Development Methodologies: <br/>
-Agile Methodologies
+##### Software Development Life Cycle (SDLC):
+- Agile (Scrum)
+- Iterative
+- Waterfall
 
-##### Programming Concepts: <br/>
-Design Patterns, Object-Oriented Programming (OOP), SOLID
+##### Software Development Methodologies:
+- Agile Methodologies
 
-##### Version Control Systems: <br/>
-CVS, GitHub, GitLab, GitPod, TFS
+##### Soft Skills:
+- Mentoring/Coaching
+- Problem-Solving
+- Product Engineering
+- Programming
+- Requirements Gathering and Analysis
+- Research and Development
+- Troubleshooting
 
-##### Soft Skills: <br/>
-Mentoring/Coaching, Problem-Solving, Product Engineering, Programming, Requirements Gathering and Analysis, Research and Development, Troubleshooting
+##### Stylesheet Languages:
+- CSS
+- SASS
 
-##### Testing Tools: <br/>
-Postman, SoapUI, Swagger
+##### Testing Tools:
+- Postman
+- SoapUI
+- Swagger
 
-##### Continuous Integration/Continuous Deployment (CI/CD): <br/>
-GitLab CI/CD
+##### Version Control:
+- CVS
+- Git
+- TFVC
 
-##### Content Management Systems (CMS): <br/>
-Drupal 7.x, Drupal 8.x, Drupal 9.x
+##### Version Control Systems:
+- CVS
+- GitHub
+- GitLab
+- GitPod
+- TFS
 
-##### Other: <br/>
-Bash, Composer, PhpMyAdmin
+##### Web Development:
+- AJAX
+- CSS
+- CSS3
+- HTML
+- HTML5
+- jQuery
+- JSON
+- Media Query
+- React.js
+- SASS
+- Search Engine Marketing (SEM)
+- Search Engine Optimization (SEO)
+- Twig (Template Engine)
+- Usability Testing
+- WCF (Windows Communication Foundation)
+- XHTML
+- XML
+- Twitter Bootstrap
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prethiee&" alt="Preethi" /></p>
