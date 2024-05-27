@@ -23,6 +23,7 @@ Code enthusiast, and problem solver. Always looking for new challenges and exper
 - Drupal 7.x
 - Drupal 8.x
 - Drupal 9.x
+- Drupal 10.x
 
 ##### Continuous Integration/Continuous Deployment (CI/CD):
 - GitLab CI/CD
