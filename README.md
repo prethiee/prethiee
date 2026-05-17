@@ -21,7 +21,5 @@ Tech Interests
 - Cloud & DevOps
 - AI-assisted development workflows
 
-Let’s Connect
-Open to connecting and collaborating with developers on GitHub to build impactful and 
-innovative solutions 🚀
+Let’s Connect 🚀 
 ```
