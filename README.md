@@ -1,6 +1,23 @@
-Code enthusiast and problem solver.
-I am always looking for new challenges and experiences. </br>
+```md id="7gk21m"
+## Hi there 👋
 
-I specialize in backend development but am open to exploring the ever-evolving world of web technology.</br>
-Let's connect to explore opportunities for mutual growth and innovation.</br>
+I’m a passionate developer, code enthusiast, and problem solver who enjoys building scalable and efficient web solutions. I’m always looking for new challenges, continuous learning, and opportunities to explore emerging technologies.
 
+I specialize in backend development with experience in modern web platforms and enterprise solutions, while also exploring the ever-evolving world of web technologies.
+
+### What I Enjoy
+- Backend & enterprise web development
+- Building scalable and maintainable applications
+- Exploring modern web technologies
+- Continuous learning and problem solving
+
+### Tech Interests
+- Drupal & PHP
+- Web Architecture
+- APIs & Integrations
+- Cloud & DevOps
+- AI-assisted development workflows
+
+### Let’s Connect
+Open to connecting and collaborating with developers on GitHub to build impactful and innovative solutions 🚀
+```
