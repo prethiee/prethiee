@@ -1,25 +1,18 @@
 ```md id="7gk21m"
-Hi there 👋
+👋 Hi, I'm Preethi , a backend engineer and Drupal specialist passionate about building robust, scalable, and maintainable web applications.
+I enjoy solving complex engineering problems, designing backend architectures, and turning technical challenges into practical solutions.
 
-I’m a passionate developer, code enthusiast, and problem solver who enjoys building scalable and 
-efficient web solutions. I’m always looking for new challenges, continuous learning, and opportunities
-to explore emerging technologies.
+**What I Work With**
+- Drupal & PHP — Enterprise CMS development and backend engineering
+- Architecture — Scalable, maintainable and headless applications
+- APIs & Integrations — REST, JSON:API and third-party integrations
+- Performance — Caching, optimisation and application reliability
+- Cloud & DevOps — Modern deployment workflows and cloud platforms
 
-I specialize in backend development with experience in modern web platforms and enterprise solutions, 
-while also exploring the ever-evolving world of web technologies.
+**Currently Exploring**
+- AI-assisted software development
+- Modern application architectures
+- Emerging tools and technologies
 
-What I Enjoy
-- Backend & enterprise web development
-- Building scalable and maintainable applications
-- Exploring modern web technologies
-- Continuous learning and problem solving
-
-Tech Interests
-- Drupal & PHP
-- Web Architecture
-- APIs & Integrations
-- Cloud & DevOps
-- AI-assisted development workflows
-
-Let’s Connect 🚀 
+I believe good engineering is about more than writing code, it's about building solutions that are reliable, thoughtful, and built to last.
 ```
